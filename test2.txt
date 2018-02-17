@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5613-6D68
+
+ Directory of C:\Users\Sujan\Desktop\mygitproject
+
+02/17/2018  03:18 PM    <DIR>          .
+02/17/2018  03:18 PM    <DIR>          ..
+02/17/2018  02:51 PM               407 index.html
+02/17/2018  02:43 PM                11 test1.txt
+02/17/2018  03:18 PM                 0 test2.txt
+               3 File(s)            418 bytes
+               2 Dir(s)  59,249,680,384 bytes free
